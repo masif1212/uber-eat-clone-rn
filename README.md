@@ -1,31 +1,44 @@
-# uber-eat-clone-rn
-This is uber-eat application clone build in react native. I  used React Redux, Yelp API, Google API, Firebase and React Hooks for services.
+# My Universal React Project
 
+<p>
+  <!-- iOS -->
+  <a href="https://itunes.apple.com/app/apple-store/id982107779">
+    <img alt="Supports Expo iOS" longdesc="Supports Expo iOS" src="https://img.shields.io/badge/iOS-4630EB.svg?style=flat-square&logo=APPLE&labelColor=999999&logoColor=fff" />
+  </a>
+  <!-- Android -->
+  <a href="https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=blankexample">
+    <img alt="Supports Expo Android" longdesc="Supports Expo Android" src="https://img.shields.io/badge/Android-4630EB.svg?style=flat-square&logo=ANDROID&labelColor=A4C639&logoColor=fff" />
+  </a>
+  <!-- Web -->
+  <a href="https://docs.expo.dev/workflow/web/">
+    <img alt="Supports Expo Web" longdesc="Supports Expo Web" src="https://img.shields.io/badge/web-4630EB.svg?style=flat-square&logo=GOOGLE-CHROME&labelColor=4285F4&logoColor=fff" />
+  </a>
+</p>
 
+## 🚀 How to use
 
-![WhatsApp Image 2022-04-19 at 2 54 00 AM](https://user-images.githubusercontent.com/48964638/163978881-e9e8fcab-978f-49b2-9c97-e18adcf8ef4f.jpeg)
-![WhatsApp Image 2022-04-19 at 2 54 01 AM](https://user-images.githubusercontent.com/48964638/163978988-e2a140c7-4cb9-441b-a939-38a50367750c.jpeg)
+- Install packages with `yarn` or `npm install`.
+  - If you have native iOS code run `npx pod-install`
+- Run `yarn start` to start the bundler.
+- Open the project in a React runtime to try it:
+  - iOS: [Client iOS](https://itunes.apple.com/app/apple-store/id982107779)
+  - Android: [Client Android](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=blankexample)
+  - Web: Any web browser
 
+## Adding Native Code
 
+This project can be run from a web browser or the Expo client app. You may find that you want to add more native code later on. You can do this by ejecting the project and rebuilding it yourself.
 
-Select Menu items, and the checkout button apears
+- Run `yarn eject` to create the native projects.
+- You can still run your project in the web browser or Expo client, you just won't be able to access any new native modules you add.
 
+## Publishing
 
+- Deploy the native app to the App store and Play store using this guide: [Deployment](https://docs.expo.dev/distribution/app-stores/).
+- Deploy the website using this guide: [Web deployment](https://docs.expo.dev/distribution/publishing-websites/).
 
-![WhatsApp Image 2022-04-19 at 2 54 02 AM (1)](https://user-images.githubusercontent.com/48964638/163979132-a29c5704-6009-4445-8dd6-0059339807da.jpeg)
+## 📝 Notes
 
-
-Show modal of receipt and list of items selected
-
-
-![WhatsApp Image 2022-04-19 at 2 54 03 AM](https://user-images.githubusercontent.com/48964638/163979336-bf745ca8-878b-4702-b7af-2ddf410ca356.jpeg)
-
-
-loading page and last is Confirmation page
-
-
-
-![WhatsApp Image 2022-04-19 at 2 54 03 AM (1)](https://user-images.githubusercontent.com/48964638/163979615-f33e64b3-765c-44d8-ab1a-43b494fe874d.jpeg)
-
-![WhatsApp Image 2022-04-19 at 2 54 04 AM](https://user-images.githubusercontent.com/48964638/163979605-33740158-35b2-4c8b-90fe-be89b7a57f1e.jpeg)
-
+- Learn more about [Universal React](https://docs.expo.dev/).
+- See what API and components are [available in the React runtimes](https://docs.expo.dev/versions/latest/).
+- Find out more about developing apps and websites: [Guides](https://docs.expo.dev/guides/).
