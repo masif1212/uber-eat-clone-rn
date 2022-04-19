@@ -42,3 +42,21 @@ This project can be run from a web browser or the Expo client app. You may find 
 - Learn more about [Universal React](https://docs.expo.dev/).
 - See what API and components are [available in the React runtimes](https://docs.expo.dev/versions/latest/).
 - Find out more about developing apps and websites: [Guides](https://docs.expo.dev/guides/).
+
+
+![WhatsApp Image 2022-04-19 at 2 54 04 AM](https://user-images.githubusercontent.com/48964638/163982734-91ade8f6-6f2e-4479-90ac-dbf926e36ba0.jpeg)
+
+
+![WhatsApp Image 2022-04-19 at 2 54 03 AM (1)](https://user-images.githubusercontent.com/48964638/163982743-9ca11e0a-5984-461b-bb3b-44e757cd4abf.jpeg)
+
+
+![WhatsApp Image 2022-04-19 at 2 54 03 AM](https://user-images.githubusercontent.com/48964638/163982745-600e2139-dee7-45e3-859a-c53ab71d6ac7.jpeg)
+
+
+![WhatsApp Image 2022-04-19 at 2 54 02 AM (1)](https://user-images.githubusercontent.com/48964638/163982748-219d1193-d714-4673-a93a-d1ec94d3c39b.jpeg)
+
+
+![WhatsApp Image 2022-04-19 at 2 54 01 AM](https://user-images.githubusercontent.com/48964638/163982750-ce51825f-bba0-4f25-a984-de464a3f590e.jpeg)
+
+
+![WhatsApp Image 2022-04-19 at 2 54 00 AM](https://user-images.githubusercontent.com/48964638/163982757-38b1e699-9a35-4e0b-a3dc-7e2bb15892d2.jpeg)
